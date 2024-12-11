@@ -1,0 +1,2 @@
+# DjangoPracticeWeek7
+DjangoPracticeWeek7
